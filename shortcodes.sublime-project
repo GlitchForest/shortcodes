@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "/",
+			"name": "Shortcodes Project",
+			"file_exclude_patterns": [
+				"*.sublime-project",
+				"*.sublime-workspace",
+				"config.rb"
+			],
+			"folder_exclude_patterns": [
+				".sass-cache"
+			]
+		}
+	]
+}
